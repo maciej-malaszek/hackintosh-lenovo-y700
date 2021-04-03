@@ -1,6 +1,8 @@
 # hackintosh-lenovo-y700
 Fully functional configuration for Hackintosh on Lenovo Y700
 
+## Current Version: Big Sur 11.2.3
+
 ## What does work
 
 ### Hardware
@@ -13,7 +15,7 @@ Fully functional configuration for Hackintosh on Lenovo Y700
 - USB3.0 & USB2.0
 - Speakers
 - iGPU (HD 530) Acceleration (2GB VRAM)
-- HDMI connector (external Display) - but without HDMI Sound
+- HDMI connector (external Display) with Audio
 
 ### Software
 - Sleep, Wake & Shutdown
