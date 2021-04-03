@@ -25,6 +25,7 @@ Fully functional configuration for Hackintosh on Lenovo Y700
 - Siri
 - Display Brightness regulation
 - Screen Mirroring (tested with LG)
+- Parallels
 
 ## What does not work
 
@@ -33,8 +34,6 @@ Fully functional configuration for Hackintosh on Lenovo Y700
 - dGPU (GTX960M) - and will not work, as MacOS dropped any support for that
 - Subwoofer (it works only in Windows)
 
-### Software
-- Most likely Boot Camp & Parallels (altough not tested)
 
 ## Installation
 Copy EFI directory to your EFI partition as is.
